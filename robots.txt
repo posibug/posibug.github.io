@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://posibug.github.io/sitemap.html.gz
+Sitemap: https://posibug.github.io/app/sitemap.html.gz
+Sitemap: https://posibug.github.io/assets/sitemap.html.gz
+Sitemap: https://posibug.github.io/css/sitemap.html.gz
+Sitemap: https://posibug.github.io/includes/sitemap.html.gz
+Sitemap: https://posibug.github.io/item/sitemap.html.gz
+Sitemap: https://posibug.github.io/src/sitemap.html.gz
